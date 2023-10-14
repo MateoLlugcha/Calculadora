@@ -1,0 +1,12 @@
+<?xml version="1.0" encoding="utf-8"?>
+<resources>
+    <color name="black">#FF000000</color>
+    <color name="white">#FFFFFFFF</color>
+    <color name="plata">#C0C0C0</color>
+    <color name="gray">#808080</color>
+    <color name="ji1">#2A8C82</color>
+    <color name="ji2">#41BFB3</color>
+    <color name="ji3">#91F2E9</color>
+    <color name="ji4">#275950</color>
+    <color name="ji5">#260101</color>
+</resources>
